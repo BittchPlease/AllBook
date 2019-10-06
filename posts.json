@@ -1,6 +1,42 @@
 {
 "allbook":
 [
+          {
+"title" : "ရာဂရဲ့မီး",
+"status" : "စ - ဆုံး",
+"cover" : "https://1.bp.blogspot.com/-fewk4BnGdek/XZjlmimMPLI/AAAAAAAAAVs/ZUZu-CK0yucDh7JQE5rFi33CEJM5hxzqQCLcBGAsYHQ/s600/Image_1.jpeg",
+"author" : "ဖိုးသားလေး",
+"encoder" : "XC2",
+"tag" : "short",
+"price" : "0",
+
+
+"post" : "
+
+
+<img src=\"https://1.bp.blogspot.com/-fewk4BnGdek/XZjlmimMPLI/AAAAAAAAAVs/ZUZu-CK0yucDh7JQE5rFi33CEJM5hxzqQCLcBGAsYHQ/s1600/Image_1.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-WbxuVEq-F9Q/XZjlmduej2I/AAAAAAAAAVo/XPfppgUoku88GYZ0G0ABpSjrzdO79YcQACLcBGAsYHQ/s1600/Image_2.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-I-f-Ulf4Qmw/XZjloIebDyI/AAAAAAAAAV0/XUpXWRdv_hslB9icy5kE90e0DVtcch8rwCLcBGAsYHQ/s1600/Image_3.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-C4PaiwvQMm8/XZjloyHk_VI/AAAAAAAAAV4/WdQiRW7k9MUPS35k-xOstaWcd-WICRdRACLcBGAsYHQ/s1600/Image_4.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-aQPSCG7Ccdk/XZjlpa4BasI/AAAAAAAAAV8/r47ePGqS6JU8RjmxD_-SEobVVU5fDo4tACLcBGAsYHQ/s1600/Image_5.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-8baOKDNbfAk/XZjlqKrppJI/AAAAAAAAAWA/Iy7Ev2Y977wlHLRzo5y1Vq4-moKAavinwCLcBGAsYHQ/s1600/Image_6.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-RicjD5cW0mM/XZjlrG-xLxI/AAAAAAAAAWE/5c3dEvUVPccpndObsFZxW0FriOnmgXUsACLcBGAsYHQ/s1600/Image_7.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-LXvOxDkUMo4/XZjlsImHhMI/AAAAAAAAAWI/9bZWhXNuEO07F7M-tyBQ5usu59YMAmENQCLcBGAsYHQ/s1600/Image_8.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-J0bw-d8oogE/XZjls38BnUI/AAAAAAAAAWM/e6sQfZPVOn0BD4WjQ7s3ocBXrwLEb26TQCLcBGAsYHQ/s1600/Image_9.jpeg\" width=\"100%\" />
+
+<img src=\"https://1.bp.blogspot.com/-09rBl-9nlP0/XZjlnMT22II/AAAAAAAAAVw/VuikNrtwYeIqBU9wXlqcjtEXgtIOTrynQCLcBGAsYHQ/s1600/Image_10.jpeg\" width=\"100%\" />
+
+    "
+}
+          ,
 {
 "title" : "လင္ပါသား",
 "status" : "စ-ဆံုး",
